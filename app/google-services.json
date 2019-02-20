@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "95497831277",
+    "firebase_url": "https://bostoncountdown-2dab8.firebaseio.com",
+    "project_id": "bostoncountdown-2dab8",
+    "storage_bucket": "bostoncountdown-2dab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95497831277:android:627f04d5bee8db39",
+        "android_client_info": {
+          "package_name": "com.miele.bostoncountdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95497831277-k967jfoqqtmvv7alcghge83bgoacd16t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miele.bostoncountdown",
+            "certificate_hash": "ee4d0df95dbffe600ee9ae24ee8f86f9bab8b0ac"
+          }
+        },
+        {
+          "client_id": "95497831277-52uv1hn15ffdoh94u5aso2jmu46sl1un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQllp5hqLnHUHlGCu0HAIASmsOExpnCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95497831277-52uv1hn15ffdoh94u5aso2jmu46sl1un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
